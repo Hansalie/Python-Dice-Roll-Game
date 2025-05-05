@@ -1,0 +1,9 @@
+Player
+Total moves 2
+Black hole hits 0
+Lost the game
+
+Computer
+Total moves 15
+Black hole hits 1
+Won the game
