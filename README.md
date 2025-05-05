@@ -1,8 +1,6 @@
 # Python-Dice-Roll-Game
 20x2 Board Game - A Python text-based board game where players race against the computer on a 20×2 board, avoiding black holes and strategically advancing to reach position 20 first. Features game state tracking, timestamped records, and an interactive console interface. A text-based board game written in Python where a player competes against the computer on a 20x2 game board.
 
-![Game Screenshot](screenshots/gameplay1.png)
-
 ## Game Description
 
 The 20x2 board game is played between a human player and a computer on a game board consisting of 20 blocks in 2 rows. Players roll a dice to determine movement, where the number of steps is half the dice value (floor division). Players must roll a 6 to enter the board initially.
@@ -68,11 +66,13 @@ After each game, a record is saved in a text file with the format `YYYY_MM_DD_HH
 ## Screenshots
 
 ### Gameplay and Board Visualization
-![Gameplay Screenshot 1](screenshots/gameplay1.png)
-*Initial game board and dice rolling mechanics*
 
-![Gameplay Screenshot 2](screenshots/gameplay2.png)
+*Initial game board and dice rolling mechanics*
+![Gameplay Screenshot 1](screenshots/gameplay1.png)
+
 *Game progression with computer winning the game*
+![Gameplay Screenshot 2](screenshots/gameplay2.png)
+
 
 ### Game Features Shown in Screenshots:
 - Board visualization with positions 1-20
